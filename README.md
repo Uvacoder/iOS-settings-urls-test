@@ -1,3 +1,6 @@
+https://github.com/Uvacoder/ios-settings-urls-website-test
+
+
 # ios-settings-urls
 
 A collection of iOS Settings URLs.
